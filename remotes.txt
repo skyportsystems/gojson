@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/gojson (fetch)
+origin	git@github.com:skyportsystems/gojson (push)
+upstream	https://github.com/ChimeraCoder/gojson.git (fetch)
+upstream	https://github.com/ChimeraCoder/gojson.git (push)
